@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @helmis2
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ... Kotlin
